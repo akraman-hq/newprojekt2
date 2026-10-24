@@ -10,3 +10,4 @@ else:
     print(f'{number:.2f}')
 finally:
     print('\nПрограмма завершена')
+
